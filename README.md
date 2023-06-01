@@ -3,6 +3,9 @@
 ## Introduction
 Hey there! Thanks for visiting my GitHub profile. I'm an upcoming Full Stack Developer with a passion for building web applications and exploring the MERN (MongoDB, Express.js, React.js, Node.js) stack. I'm constantly learning and growing my skills in JavaScript, CSS, and HTML to create user-friendly and efficient web experiences.
 
+[Click here](https://titomazzetta.github.io/profile/)
+
+
 ## Education
 I'm currently enrolled in the MIT xPRO Coding Bootcamp, where I'm gaining hands-on experience and deepening my understanding of full-stack web development. The program provides a comprehensive curriculum and real-world projects, enabling me to sharpen my skills and develop a strong foundation in software engineering.
 
